@@ -2,7 +2,6 @@
 
 ![Captura de Tela da Atividade](https://github.com/jessica-sobreira/tabelas/assets/117686537/3e988407-cf4f-4de9-9b20-055c880e3c59)
 
-Aprimorando as Habilidades com Tabelas em HTML na Growdev.
 
 ## Descrição
 
